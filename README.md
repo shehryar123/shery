@@ -1,2 +1,6 @@
 # shery
 my first repo
+md means mark down
+# mean hadings there are 6 # is a size of hading 
+**bold** *italic*+
+[user see](user go)
